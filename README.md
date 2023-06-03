@@ -1,4 +1,1 @@
-# password_generator
-# I created a simple/complex password generator in my time during my 100 days of python coding with Dr. Angela Wu. Do with it as you please. 
-# Just give credit where credit is due. Had a little help with this thanks to the incredible Angela. 
-# Anyhwho, im out yall, PEACE! 
+A password generator as part of Angela Yu's '100 Days of Code: The complete Python Pro Bootcamp'
